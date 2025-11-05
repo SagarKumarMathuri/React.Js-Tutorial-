@@ -13,7 +13,7 @@ If not, download it from the official website:
 🔹 Why You Need Node.js
 It lets you run React tools like Vite or Create React App.
 
-It includes npm, which installs all required dependencies automatically.
+It includes npm, which installs all required dependencies automatically.#
 
 ⚙️ Step 2: Choose a React Setup Method
 There are a few ways to set up a React project. Let’s look at the most popular ones 👇
