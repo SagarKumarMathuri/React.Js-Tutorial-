@@ -109,7 +109,7 @@ A weather app using an API
 Keep experimenting, and soon React will feel like second nature 💪
 
 📘 Author
-Written by [Your Name]
+Written by [Sagar Kumar Mathuri]
 Follow me on Hashnode or LinkedIn for more React and JavaScript content.
 
 yaml
@@ -218,11 +218,4 @@ A weather app using an API
 
 Keep experimenting, and soon React will feel like second nature 💪
 
-📘 Author
-Written by [Your Name]
-Follow me on Hashnode or LinkedIn for more React and JavaScript content.
 
-yaml
-Copy code
->>>>>>> d9481ae65a66907fa1f8a4aafddd4398301a77cf
-````
